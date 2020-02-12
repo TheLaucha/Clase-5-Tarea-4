@@ -1,0 +1,54 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	font-family: 'Odibee Sans', cursive;
+}
+
+.container{
+	width: 600px;
+	margin:auto;
+	background-color: #ffa41b;
+	padding: 25px;
+	border-radius: 20px;
+	margin-top: 20px;
+}
+
+h1{
+	font-size: 1.8em;
+	margin-left: 20px;
+}
+
+ol{
+	margin-left: 35px;
+}
+
+button{
+	display: inline-block;
+	padding: 10px;
+	background-color: #9818d6;
+	text-decoration: none;
+	border-radius: 4px;
+	width: 200px;
+	height: auto;
+	border:none;
+	box-shadow: 10px 10px 50px -10px rgba(0,0,0,0.75);
+	margin:10px;
+	color: white;
+}
+
+button:hover{
+	background-color: #ff5151;
+	transition: 0.50s;
+	cursor: pointer;
+}
+
+p{
+	display: inline-block;
+}
+
+em{
+	color: #ededed;
+}
